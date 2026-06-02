@@ -1,16 +1,99 @@
-# React + Vite
+# Bigspring React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive business landing page built with React and Vite. This project is inspired by the Bigspring Light design and showcases a clean user interface, reusable React components, and responsive layouts.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Responsive Navigation Bar
+* Hero Section
+* Features Section
+* Digital Marketing Section
+* Company Information Sections
+* Workflow Section
+* Call To Action Section
+* Contact Section
+* Footer Section
+* Mobile Friendly Design
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React JS
+* Vite
+* CSS3
+* JavaScript (ES6+)
+* React Icons
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+src
+├── components
+│   ├── navbar
+│   ├── hero
+│   ├── features
+│   ├── digitalSection
+│   ├── companySection
+│   ├── cyberSection
+│   ├── workFlow
+│   ├── contact
+│   └── footer
+├── assets
+├── App.jsx
+└── main.jsx
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ankita2008/bigspring-react-app.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd bigspring-react-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📱 Responsive Design
+
+The website is fully responsive and optimized for:
+
+* Desktop
+* Tablet
+* Mobile Devices
+
+## 🎯 Learning Outcomes
+
+* React Component Architecture
+* Responsive Web Design
+* CSS Layouts (Flexbox & Grid)
+* Reusable Components
+* Project Structure Organization
+
+## 🔗 GitHub Repository
+
+https://github.com/ankita2008/bigspring-react-app
+
+## 👩‍💻 Author
+
+Ankita Satasiya
+
+Frontend Developer
+
+## 📄 License
+
+This project is created for learning and portfolio purposes.
