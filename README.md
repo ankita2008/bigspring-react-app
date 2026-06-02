@@ -1,21 +1,19 @@
-# Cyber Security Landing Page
+# Bigspring React App
 
-A modern and responsive Cyber Security Landing Page built using React and Vite. The project showcases a professional business website with multiple sections, clean UI, and responsive design.
+A modern and responsive business landing page built with React and Vite. This project is inspired by the Bigspring Light design and showcases a clean user interface, reusable React components, and responsive layouts.
 
 ## 🚀 Features
 
 * Responsive Navigation Bar
 * Hero Section
-* Company Section
 * Features Section
-* Digital Services Section
-* Cyber Security Section
+* Digital Marketing Section
+* Company Information Sections
 * Workflow Section
-* Team Section
+* Call To Action Section
 * Contact Section
 * Footer Section
-* Fully Responsive Design
-* Modern UI/UX
+* Mobile Friendly Design
 
 ## 🛠️ Technologies Used
 
@@ -27,20 +25,22 @@ A modern and responsive Cyber Security Landing Page built using React and Vite. 
 
 ## 📂 Project Structure
 
-src/
-├── components/
-│ ├── navbar/
-│ ├── hero/
-│ ├── companySection/
-│ ├── features/
-│ ├── digitalSection/
-│ ├── cyberSection/
-│ ├── workFlow/
-│ ├── teamSection/
-│ ├── contact/
-│ └── footer/
-├── assets/
-└── App.jsx
+```text
+src
+├── components
+│   ├── navbar
+│   ├── hero
+│   ├── features
+│   ├── digitalSection
+│   ├── companySection
+│   ├── cyberSection
+│   ├── workFlow
+│   ├── contact
+│   └── footer
+├── assets
+├── App.jsx
+└── main.jsx
+```
 
 ## ⚙️ Installation
 
@@ -68,17 +68,25 @@ Start the development server:
 npm run dev
 ```
 
-## 📸 Screenshots
+## 📱 Responsive Design
 
-Add screenshots of your project here.
+The website is fully responsive and optimized for:
+
+* Desktop
+* Tablet
+* Mobile Devices
 
 ## 🎯 Learning Outcomes
 
-* Component-based architecture in React
-* Responsive web design
-* Reusable UI components
-* Project organization and folder structure
-* Working with React Icons
+* React Component Architecture
+* Responsive Web Design
+* CSS Layouts (Flexbox & Grid)
+* Reusable Components
+* Project Structure Organization
+
+## 🔗 GitHub Repository
+
+https://github.com/ankita2008/bigspring-react-app
 
 ## 👩‍💻 Author
 
