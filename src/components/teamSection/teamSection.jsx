@@ -20,7 +20,7 @@ export default function TeamSection() {
 
   return (
     <section className="team-section">
-      <div className="container">
+      <div className="team-container">
         {/* Left Content */}
         <div className="team-content">
           <h2>

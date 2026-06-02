@@ -20,7 +20,7 @@ export default function CompanySection() {
 
   return (
     <section className="company-section">
-      <div className="container">
+      <div className="company-container">
 
         {/* left Slider */}
         <div className="company-slider">

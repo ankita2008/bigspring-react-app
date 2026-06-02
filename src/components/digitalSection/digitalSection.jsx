@@ -20,7 +20,7 @@ export default function DigitalSection() {
 
   return (
     <section className="digital-section">
-      <div className="container">
+      <div className="digital-container">
         {/* Left Content */}
         <div className="digital-content">
           <h2>

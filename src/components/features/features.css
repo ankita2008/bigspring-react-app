@@ -49,10 +49,10 @@
   /* align-items: center; */
   margin-bottom: 20px;
 }
-.icon svg {
-  width: 40px;
-  height: 40px;
-  color: #0ca7a7;
+.icon img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
 }
 
 .card h3 {
